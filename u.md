@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Wat u bij ons kunt doen
-subtitle:
+title: 
+subtitle: Wat u bij ons kunt doen
 ---
 
 U bent op zoek naar dagbesteding en zou de dag graag doorbrengen in een rustige, creatieve en gezellige omgeving dan bent u bij Studio 10 van harte welkom.
