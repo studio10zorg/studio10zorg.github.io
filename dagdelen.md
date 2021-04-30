@@ -1,7 +1,7 @@
 ---
 layout: page
-title: dagdelen
-subtitle: Wat we u kunnen bieden
+title: Wat wij u kunnen bieden
+subtitle: 
 ---
 
 We bieden dagbesteding aan in dagdelen. De dagdelen van 10.00 tot 13.00 uur en van 13.00 tot 16.00 uur. De gehele dag is van 10.00 tot 16.00 uur
