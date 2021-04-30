@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Over ons
-subtitle: 
+title: 
+subtitle: Over ons
 ---
 
 Wij zijn Andy en Ellen Wayers. Samen met de huidige cliënten hebben we dit zorgatelier tot een succes gemaakt.
