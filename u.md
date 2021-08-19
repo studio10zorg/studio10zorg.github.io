@@ -1,10 +1,11 @@
 ---
 layout: page
-title: U 
-subtitle: Wat u bij ons kunt doen
+<!--title: U -->
+<!--subtitle: Wat u bij ons kunt doen-->
+cover-img: "/assets/img/wolken.jpg"
 ---
 
-U bent op zoek naar dagbesteding en zou de dag graag doorbrengen in een
+Bent u op zoek naar dagbesteding en zou de dag graag doorbrengen in een
 rustige, creatieve en gezellige omgeving? Dan bent u bij Studio 10 van harte
 welkom!
 

@@ -1,19 +1,19 @@
 ---
 layout: page
-title: Over ons
-subtitle: Wie wij zijn
+<!--title: Over ons-->
+<!--subtitle: Wie wij zijn-->
+cover-img: "/assets/img/redwoods.jpg"
 ---
 
-<img align="right" src="/assets/img/elizeneyal.webp"/>
 
+<img style="padding: 5px 5px 10px 15px; width: 40%" align="right" src="/assets/img/elizeneyal-small.jpg"/>
 Wij zijn Elizabeth Geurts en Eyal Oren, en wonen in Gilze met onze 2 kinderen
 na een avontuur in het buitenland.  
 
-We hebben het zorgatelier overgenomen
-van Ellen en Andy Wayers, die dit prachtige zorgatelier hebben opgebouwd en met
-hulp van alle cliënten en vrijwiliggers sinds 2016 tot een groot succes
-gemaakt. Na vijf jaar hebben wij het stokje overgenomen, en gaan met evenveel
-warmte en energie door.
+We hebben het zorgatelier overgenomen van Ellen en Andy Wayers, die dit
+prachtige zorgatelier hebben opgebouwd en met hulp van alle cliënten en
+vrijwiliggers sinds 2016 tot een groot succes gemaakt. Na vijf jaar hebben wij
+het stokje overgenomen, en gaan met evenveel warmte en energie door.
 
 We komen oorspronkelijk uit Nederland en hebben 8 jaar in de VS gewoond, in
 Californie.  Elizabeth een achtergrond in biologie en heeft jarenlange
@@ -25,3 +25,5 @@ en administratieve ondersteuning.
 Samen met vrijwilligers en stagiaires gaan we deze uitdaging aan.  Wij hechten
 veel waarde aan plezier in een goede sfeer met respect en begrip voor elkaar.
 Daarom staan wij voor een open communicatie.
+
+
