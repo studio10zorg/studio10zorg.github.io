@@ -1,16 +1,27 @@
 ---
 layout: page
-title: 
-subtitle: Over ons
+title: Over ons
+subtitle: Wie wij zijn
 ---
 
-<!---
-Wij zijn Andy en Ellen Wayers. Samen met de huidige cliënten hebben we dit zorgatelier tot een succes gemaakt.
+<img align="right" src="/assets/img/elizeneyal.webp"/>
 
-Vol passie en werklust zijn we hier vanaf voorjaar 2012 mee bezig geweest. Na drie jaar bezig te zijn geweest met de vergunning hebben we februari 2016 de deuren van het zorgatelier kunnen openen. 
+Wij zijn Elizabeth Geurts en Eyal Oren, en wonen in Gilze met onze 2 kinderen
+na een avontuur in het buitenland.  
 
-Ellen heeft een jarenlange ervaring in de gezondheidszorg. Zij organiseert en creeërt. Andy gaat, naast de werkzaamheden in zijn onderneming, creatieve ondersteuning geven. Samen met vrijwilligers en stagiaires gaan we deze uitdaging aan.
+We hebben het zorgatelier overgenomen
+van Ellen en Andy Wayers, die dit prachtige zorgatelier hebben opgebouwd en met
+hulp van alle cliënten en vrijwiliggers sinds 2016 tot een groot succes
+gemaakt. Na vijf jaar hebben wij het stokje overgenomen, en gaan met evenveel
+warmte en energie door.
 
-Wij hechten veel waarde aan een goede sfeer en respect en begrip voor elkaar.
+We komen oorspronkelijk uit Nederland en hebben 8 jaar in de VS gewoond, in
+Californie.  Elizabeth een achtergrond in biologie en heeft jarenlange
+werkervaring met groepen en mensen met beperkingen. Ze heeft lesgegeven aan
+mensen van alle leeftijden, van kleuterschool tot hogeschool, en is altijd erg
+creatief bezig en veel met de natuur.  Eyal werkt bij Google en geeft creatieve
+en administratieve ondersteuning.
+
+Samen met vrijwilligers en stagiaires gaan we deze uitdaging aan.  Wij hechten
+veel waarde aan plezier in een goede sfeer met respect en begrip voor elkaar.
 Daarom staan wij voor een open communicatie.
---->
