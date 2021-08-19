@@ -9,7 +9,7 @@ Welkom bij **Studio 10 zorgatelier**. Wij bieden dagbesteding aan
 mensen met een beperking, in hele dagen of in [dagdelen](/dagdelen).
 
 Studio 10 biedt onder andere creatieve dagbesteding: schilderen, textiele
-werkvormen, hout bewerken, boetseren, keramiek, mozaiek, tekenen en speksteen
+werkvormen, hout bewerken, boetseren, keramiek, mozaïek, tekenen en speksteen
 zijn hier voorbeelden van. Samen met de cliënt gaan we op zoek naar passende en
 leuke activiteiten. Kijk op onze
 [Facebook](https://www.facebook.com/Studio-10-Zorgatelier-459065357618409) om
