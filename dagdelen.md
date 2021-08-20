@@ -2,7 +2,7 @@
 layout: page
 <!--title: Dagdelen-->
 <!--subtitle: Wat wij u kunnen bieden-->
-cover-img: "/assets/img/isa.jpg"
+cover-img: "/assets/img/dagdelen.jpg"
 ---
 
 **Dagdelen**  

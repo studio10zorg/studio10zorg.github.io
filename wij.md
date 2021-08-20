@@ -2,11 +2,11 @@
 layout: page
 <!--title: Over ons-->
 <!--subtitle: Wie wij zijn-->
-cover-img: "/assets/img/redwoods.jpg"
+cover-img: "/assets/img/wij.jpg"
 ---
 
 
-<img style="padding: 5px 5px 10px 15px; width: 40%" align="right" src="/assets/img/elizeneyal-small.jpg"/>
+<img style="padding: 5px 5px 10px 15px; width: 40%" align="right" src="/assets/img/headshot.jpg"/>
 Wij zijn Elizabeth Geurts en Eyal Oren, en wonen in Gilze met onze 2 kinderen
 na een avontuur in het buitenland.  
 
