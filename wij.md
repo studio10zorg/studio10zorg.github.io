@@ -16,7 +16,7 @@ tot een groot succes gemaakt. Na vijf jaar hebben wij het stokje overgenomen,
 en gaan met evenveel warmte en energie door.  
 
 We komen oorspronkelijk uit Nederland en hebben 8 jaar in de VS gewoond, in
-Californie.  Elizabeth heeft een achtergrond in biologie en onderwijs en heeft
+Californië.  Elizabeth heeft een achtergrond in biologie en onderwijs en heeft
 jarenlange werkervaring met groepen, individuen en mensen met beperkingen. Ze
 heeft lesgegeven aan mensen van alle leeftijden, van kleuterschool tot
 hogeschool, houdt van theater, crafting en de natuur.  Eyal werkt bij Google en
