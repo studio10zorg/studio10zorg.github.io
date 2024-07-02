@@ -16,11 +16,11 @@ tot een groot succes gemaakt. Na vijf jaar hebben wij het stokje overgenomen,
 en gaan met evenveel warmte en energie door.  
 
 We komen oorspronkelijk uit Nederland en hebben 8 jaar in de VS gewoond, in
-Californië.  Elizabeth heeft een achtergrond in biologie en onderwijs en heeft
-jarenlange werkervaring met groepen, individuen en mensen met beperkingen. Ze
-heeft lesgegeven aan mensen van alle leeftijden, van kleuterschool tot
-hogeschool, houdt van theater, crafting en de natuur.  Eyal werkt bij Google en
-geeft creatieve en administratieve ondersteuning.
+Californië.  Elizabeth heeft een achtergrond in biologie en onderwijs, is 
+geregistreerd in het Register Sociaal Werkers en heeft jarenlange werkervaring 
+met groepen, individuen en mensen met beperkingen. Ze heeft lesgegeven aan mensen 
+van alle leeftijden, van kleuterschool tot hogeschool, houdt van theater, crafting 
+en de natuur.  Eyal werkt bij Google en geeft creatieve en administratieve ondersteuning.
 
 Samen met vrijwilligers gaan we dit avontuur aan.  Wij hechten veel waarde aan
 plezier in een goede sfeer met respect en begrip voor elkaar.  Daarom staan wij
