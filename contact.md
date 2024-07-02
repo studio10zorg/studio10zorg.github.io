@@ -11,8 +11,8 @@ Schaapsdijk 10
   
 Web: [www.studio10zorgatelier.nl](http://www.studio10zorgatelier.nl)  
 Email: [info@studio10zorgatelier.nl](mailto:info@studio10zorgatelier.nl)  
-
 Telefoon: 0161 - 700 218 (u kunt hierop bellen en app'en)  
+
 KVK nummer: [83386513](https://www.kvk.nl/zoeken/handelsregister/?kvknummer=83386513)  
 AGB code: [98105868](https://www.vektis.nl/agb-register/onderneming-98105868)  
-Registratienummer in Register Sociaal Werk: 461053300
+Registratienummer Sociaal Werk: 461053300
