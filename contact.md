@@ -15,4 +15,4 @@ Telefoon: 0161 - 700 218 (u kunt hierop bellen en app'en)
 
 KVK nummer: [83386513](https://www.kvk.nl/zoeken/handelsregister/?kvknummer=83386513)  
 AGB code: [98105868](https://www.vektis.nl/agb-register/onderneming-98105868)  
-Registratienummer Sociaal Werk: 461053300
+Registratienummer: [461053300](https://www.pe-online.org/fe/publicRegister/189)
